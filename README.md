@@ -5,10 +5,10 @@ Design Patterns
 
 Game Design：
 Components
-Paddle: The player-controlled object that bounces the ball.
-Ball: The object that bounces around the screen, breaking bricks.
-Bricks: The targets that the ball breaks to earn points.
-Power-ups: Special items that modify gameplay when collected.
+1.Paddle: The player-controlled object that bounces the ball.
+2.Ball: The object that bounces around the screen, breaking bricks.
+3.Bricks: The targets that the ball breaks to earn points.
+4.Power-ups: Special items that modify gameplay when collected.
 
 Architecture：
 1.Game Assets:
