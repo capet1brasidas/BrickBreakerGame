@@ -1,14 +1,14 @@
-Tech Stack:\n
-LibGDx\n
-Gradle\n
-Design Patterns\n
+Tech Stack:
+LibGDx
+Gradle
+Design Patterns
 
 Game Design：
 Components
-1.Paddle: The player-controlled object that bounces the ball.\n
-2.Ball: The object that bounces around the screen, breaking bricks.\n
-3.Bricks: The targets that the ball breaks to earn points.\n
-4.Power-ups: Special items that modify gameplay when collected.\n
+1.Paddle: The player-controlled object that bounces the ball.
+2.Ball: The object that bounces around the screen, breaking bricks.
+3.Bricks: The targets that the ball breaks to earn points.
+4.Power-ups: Special items that modify gameplay when collected.
 
 Architecture：
 1.Game Assets:
